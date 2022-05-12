@@ -1,0 +1,17 @@
+.login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.login__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login p {
+  position: absolute;
+  bottom: 5%;
+}
